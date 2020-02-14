@@ -17,15 +17,15 @@ SIMPLE CURD STUDY ver.Restaurant
 -JAVA, SPRING, SPRING BOOT, H2DB 
 -Lombok, Node, junit5
 
-#형상관리
+### 형상관리
 
 -NPM, chocolatey, github, git bash
 
-#툴
+### 툴
 
 -Intellij
 
-#대표적 트러블 슈팅
+### 대표적 트러블 슈팅
 -Test 코드 작성시 Json 데이터 타입을 지정안함을 확인 -> mvc.perform.contentType(MediaType.APPLICATION_JSON) 추가
 
 -MVC 테스트 사용시 필요 어노테이션 미작성 -> test class에 @WebMvcTest(CategoryController.class) 추가
