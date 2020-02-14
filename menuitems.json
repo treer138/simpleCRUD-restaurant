@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Kimchi"
+  },
+  {
+    "name": "Gukbob"
+  },
+  {
+    "id": 3,
+    "destroy": true
+  }
+]
