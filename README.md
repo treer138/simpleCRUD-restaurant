@@ -1,20 +1,28 @@
+SIMPLE CURD STUDY ver.Restaurant
+=================================
+
 # 주제
+
 -Spring MVC에 TDD를 이용한 간단한 CRUD 공부(BackEnd)
 
-##목적
+#목적
+
 -Optional, lamda 등 java 기술 활용 및 습득
 -각종 어노테이션에 대한 습득
 -테스트 코드 작성법 공부
 -멀티모듈 방식 경험
 
-##사용 기술
+#사용 기술
+
 -JAVA, SPRING, SPRING BOOT, H2DB 
 -Lombok, Node, junit5
 
-##형상관리
+#형상관리
+
 -NPM, chocolatey, github, git bash
 
-##툴
+#툴
+
 -Intellij
 
 #대표적 트러블 슈팅
